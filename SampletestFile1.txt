@@ -6,3 +6,4 @@ When you test your connection, you'll need to authenticate this action using you
 Git revert 1
 This is comparison lecture
 
+This is Stash lecture, Change in File 1
