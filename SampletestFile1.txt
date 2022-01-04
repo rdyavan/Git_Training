@@ -1,1 +1,3 @@
 This is Sample File 1
+
+When you test your connection, you'll need to authenticate this action using your password, which is the SSH key passphrase you created earlier. For more information on working with SSH key passphrases, see "Working with SSH key passphrases".
