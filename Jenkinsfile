@@ -7,13 +7,13 @@ pipeline{
         echo 'let see what will happen'
       }
     }
-    stage('Build'){
+    stage('Build to stage'){
       steps{
       echo 'It is almost success'
       }
     }
     
-    stage('Build'){
+    stage('Build to prod'){
       steps{
       echo 'Ohooo, It is done'
       }
